@@ -1,1 +1,1 @@
-node replayfixer.bat
+node replayfixer
