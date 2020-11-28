@@ -1,0 +1,11 @@
+REQUIREMENTS: You need NodeJS installed, download here https://nodejs.org/en/download/
+
+Instructions:
+Take your corrupted .replay file and copy and paste inside this folder and rename it to "ReplayNew.replay".
+Take a new .replay file that you know works and isn't corrupted (or just hop in a game and copy and paste the .replay file into the folder) and name it "ReplayRef.replay".
+Then click on "FixReplay.bat", ReplayNew.replay should now be fixed and no longer corrupted.
+
+Developed by Twitter @FNBRUnreleased
+
+
+
